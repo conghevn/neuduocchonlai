@@ -16,6 +16,7 @@
         Nguyễn Minh Trung
     </author>
 
+	<icon src="icon.png" />
     <!--
         Enable individual API permissions here.
         The "device" permission is required for the 'deviceready' event.
