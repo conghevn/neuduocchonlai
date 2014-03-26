@@ -7,6 +7,10 @@
         version   = "1.0.0">
 
     <name>Nếu được chọn lại, tôi sẽ ...</name>
+    
+    <description>
+        Nếu được chọn lại, tôi sẽ ...
+    </description>
 
 
     <author href="http://phonegap.com" email="support@phonegap.com">
